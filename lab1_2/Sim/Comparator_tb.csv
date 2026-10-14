@@ -1,0 +1,5 @@
+Time,Comparator_tb.led_lt_n,Comparator_tb.led_gt_n,Comparator_tb.led_eq_n,Comparator_tb.key_A_n,Comparator_tb.key_B_n,Comparator_tb.dut.A,Comparator_tb.dut.B,Comparator_tb.dut.eq,Comparator_tb.dut.gt,Comparator_tb.dut.key_A_n,Comparator_tb.dut.key_B_n,Comparator_tb.dut.led_eq_n,Comparator_tb.dut.led_gt_n,Comparator_tb.dut.led_lt_n,Comparator_tb.dut.lt
+0,1,1,0,1,1,0,0,1,0,1,1,0,1,1,0
+10,0,1,1,1,0,0,1,0,0,1,0,1,1,0,1
+20,1,1,0,0,0,1,1,1,0,0,0,0,1,1,0
+30,1,0,1,0,1,1,0,0,1,0,1,1,0,1,0
